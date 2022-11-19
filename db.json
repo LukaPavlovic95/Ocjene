@@ -1,0 +1,34 @@
+{
+  "entities": [
+    {
+      "id": "1",
+      "Naziv": "Nedovoljan",
+      "DatumOd": "01.01.2022.",
+      "DatumDo": "01.01.2025."
+    },
+    {
+       "id": "2",
+      "Naziv": "Dovoljan",
+      "DatumOd": "01.01.2022.",
+      "DatumDo": "01.01.2025."
+    },
+    {
+       "id": "3",
+      "Naziv": "Dobar",
+      "DatumOd": "01.01.2022.",
+      "DatumDo": "01.01.2025."
+    },
+	  {
+       "id": "4",
+      "Naziv": "Vrlo dobar",
+      "DatumOd": "01.01.2022.",
+      "DatumDo": "01.01.2025."
+	  },
+    {
+       "id": "5",
+      "Naziv": "Odličan",
+      "DatumOd": "01.01.2022.",
+      "DatumDo": "01.01.2025."
+	  }
+  ]
+}
